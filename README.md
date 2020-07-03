@@ -1,5 +1,6 @@
 # batas-administrasi-indonesia
-Batas administrasi indonesia dalam format ShapeFile(SHP)
+Batas administrasi indonesia dalam format ShapeFile(SHP) dan GeoJSON.
+
 Data ini diekstrak dari portal GIS Kemendagri https://gis.dukcapil.kemendagri.go.id/arcgis/home/
 Data tersebut merupakan data paling baru yang dapat diambil pada saat repo ini dibuat (data 2018Semester1).
 
