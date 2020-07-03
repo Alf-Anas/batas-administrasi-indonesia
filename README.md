@@ -9,3 +9,5 @@ Untuk data provinsi memiliki ukuran file yang lebih kecil namun dengan ketelitia
 Data Kabupaten/Kota (514 Kab dan Kota) memiliki ketelitian yang hampir sama dengan data Kecamatan, data tersebut cukup besar sehingga tidak dapat diupload disini, sehingga diupload melalui google drive di link di bawah.
 
 Data Kecamatan dengan total 7207 Kecamatan di seluruh Indonesia, dan 16 objek hutan dan danau.
+
+Data Kabupaten dan Kecamatan : https://drive.google.com/drive/folders/1k0HmvFXnXdpkffP11Rql00apI4NP-Cfh
