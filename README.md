@@ -16,4 +16,4 @@ Data Kabupaten/Kota (514 Kab dan Kota) memiliki ketelitian yang hampir sama deng
 
 Data Kecamatan dengan total 7207 Kecamatan di seluruh Indonesia, dan 16 objek hutan dan danau.
 
-Data Kabupaten dan Kecamatan : https://drive.google.com/drive/folders/1k0HmvFXnXdpkffP11Rql00apI4NP-Cfh
+Data Kabupaten dan Kecamatan : https://s.id/GDrive-Batas-Administrasi
