@@ -5,7 +5,7 @@ Batas Administrasi yang meliputi :
 - Batas Provinsi (SHP, GeoJSON, KML)
 - Batas Kabupaten / Kota (SHP)
 - Batas Kecamatan (SHP)
-- ~~Batas Desa~~ (Ukuran file terlalu besar 1GB dan data masih kotor, akan diupload suatu saat)
+- Batas Desa (SHP)
 
 Data ini diekstrak dari portal GIS Kemendagri https://gis.dukcapil.kemendagri.go.id/arcgis/home/
 Data tersebut merupakan data paling baru yang dapat diambil pada saat repo ini dibuat (data 2018Semester1).
@@ -16,4 +16,8 @@ Data Kabupaten/Kota (514 Kab dan Kota) memiliki ketelitian yang hampir sama deng
 
 Data Kecamatan dengan total 7207 Kecamatan di seluruh Indonesia, dan 16 objek hutan dan danau.
 
-Data Kabupaten dan Kecamatan : https://s.id/GDrive-Batas-Administrasi
+Data Desa Seluruh Indonesia yang masih belum seluruhnya sepakat. 
+Data Desa di extract dari portal GIS PPBW BIG https://portal.ina-sdi.or.id/gis/rest/services/PPBW/BATASWILAYAH_10K_ADMINISTRASI_AR_KELDESA/MapServer 
+Data ini masih data kotor, sehingga ada batas desa yang sudah definitif, ada juga yang masih indikatif, dan batas desa yang tidak terdefinisi ataupun tidak disepakati antar desa. 
+
+Data Kabupaten, Kecamatan dan Desa : https://s.id/GDrive-Batas-Administrasi
