@@ -19,5 +19,3 @@ Data Kecamatan dengan total 7207 Kecamatan di seluruh Indonesia, dan 16 objek hu
 Data Desa Seluruh Indonesia yang masih belum seluruhnya sepakat. 
 Data Desa di extract dari portal GIS PPBW BIG https://portal.ina-sdi.or.id/gis/rest/services/PPBW/BATASWILAYAH_10K_ADMINISTRASI_AR_KELDESA/MapServer 
 Data ini masih data kotor, sehingga ada batas desa yang sudah definitif, ada juga yang masih indikatif, dan batas desa yang tidak terdefinisi ataupun tidak disepakati antar desa. 
-
-Data Kabupaten, Kecamatan dan Desa : https://s.id/GDrive-Batas-Administrasi
