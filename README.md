@@ -3,6 +3,8 @@ Batas administrasi indonesia dalam format ShapeFile(SHP), KML, GeoJSON ataupun G
 Batas adinistrasi Update (13 Juni 2023), sudah memiliki 38 provinsi dan termasuk pemecahan provinsi papua namun untuk Kode Provinsi pemekaran papua masih menggunakan kode yang lama.
 File di split per 45mb untuk menghindari warning max file github.
 
+Jika ingin mendownload satu-persatu, bisa melalui link ini: https://batas-admin.geoit.dev/
+
 Batas Administrasi yang meliputi :
 - Batas Provinsi (38 Provinsi)
 - Batas Kabupaten / Kota (514 Batas)
